@@ -1,0 +1,2 @@
+# javapatterns
+Java Patterns example
